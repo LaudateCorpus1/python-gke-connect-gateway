@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/googleapis/python-gke-connect-gateway/compare/v0.4.1...v0.5.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#65](https://github.com/googleapis/python-gke-connect-gateway/issues/65)) ([19b0ddd](https://github.com/googleapis/python-gke-connect-gateway/commit/19b0dddf8031a40ad01b2252c2399789d75d0be0))
+
 ### [0.4.1](https://www.github.com/googleapis/python-gke-connect-gateway/compare/v0.4.0...v0.4.1) (2021-11-01)
 
 
